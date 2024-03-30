@@ -50,12 +50,77 @@ Project Overview:
 
 ![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/9b489e11-be70-424a-bb50-ff9b46a6f180)
 
+### Q4. WHAT IS THE MOST COMMON CUISINE AMONG THE RESTAURANTS IN THE DATASET?
 
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/fdcd90e0-a401-40a7-86a3-66b6f69c1c1e)
 
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/053f3f1e-4926-4119-a16a-d61bf77640e4)
 
+### Q5. WHAT IS THE AVERAGE RATING OF RESTAURANTS IN EACH CITY?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/0c9b517d-6633-4825-b212-58742d127132)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/5959c792-c1bd-4a2a-a80d-cb7dbd05ab28)
+
+### Q6. WHAT IS THE HIGHEST PRICE OF ITEM UNDER THE 'RECOMMENDED' MENU CATEGORY FOR EACH RESTAURANT? SHOW ONLY TOP 5 RESTAURANT.
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/0a3c2df0-aa3c-4768-96aa-d86d2aaed7dc)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/bccf51c3-3c56-4ced-904c-1bc0129ba926)
+
+### Q7. FIND THE TOP 5 MOST EXPENSIVE RESTAURANTS THAT OFFER CUISINE OTHER THAN INDIAN CUISINE?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/2558107c-74d2-4907-b235-4aa6bf6879a2)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/f48a6b26-5ca4-4ec2-9482-0a7738bbb837)
+
+###
 
 
 ###
 
+
 ###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+###
+
+
+
 
