@@ -25,7 +25,8 @@ The dataset includes information on various restaurants, their locations, cuisin
 ## Usage
 Project Overview:
 
-- Analyzing popular cuisines in different cities.
 - Identifying top-rated restaurants.
+- Identifying top city with maximum no. of restaurants.
+- Analyzing popular cuisines in different cities.
 - Exploring menu categories and items.
 - Assessing the cost per person for dining in different places.
