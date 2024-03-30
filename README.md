@@ -1,4 +1,4 @@
-# SQL_Swiggy_Case_Study(Hands-on Project)
+# SQL_Swiggy_Case_Study
 
 ## Introduction
 
