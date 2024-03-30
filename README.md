@@ -74,53 +74,59 @@ Project Overview:
 
 ![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/f48a6b26-5ca4-4ec2-9482-0a7738bbb837)
 
-###
+### Q8. FIND THE RESTAURANTS THAT HAVE AN AVERAGE COST WHICH IS HIGHER THAN THE TOTAL AVERAGE COST OF ALL RESTAURANTS TOGETHER?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/4a891439-b7c1-4a80-8ea0-c238fe8654ca)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/7c6310cd-36c7-4c58-9d04-deb1dfb59595)
+
+### Q9. RETRIEVE THE DETAILS OF RESTAURANTS THAT HAVE THE SAME NAME BUT ARE LOCATED IN DIFFERENT CITIES?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/61e97b20-71cf-479e-88c8-52f4b98ddf0d)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/6d313141-af02-481d-96d3-da7016d869d3)
+
+### Q10. WHICH RESTAURANT OFFERS THE MOST NUMBER OF ITEMS IN THE 'MAIN COURSE' CATEGORY?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/8bf702c8-3c27-4b53-897b-3182e54cf1dd)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/98a6bd1f-6c3b-4b93-89c1-b2e4c4e135a4)
+
+### Q11. LIST THE NAMES OF RESTAURANTS THAT ARE 100% VEGEATARIAN IN ALPHABETICAL ORDER OF RESTAURANT NAME?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/5d1ddc76-139a-4486-9143-23b083d34c18)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/fdfca596-c184-42cc-8df2-316971d51d66)
+
+### Q12. WHICH IS THE RESTAURANT PROVIDING THE LOWEST AVERAGE PRICE FOR ALL ITEMS?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/38ddf340-1f31-4822-9a50-def859ebca5c)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/bdc7439f-7e41-4eb6-b1e8-a129e39ff279)
 
 
-###
+### Q13. WHICH TOP 5 RESTAURANT OFFERS HIGHEST NUMBER OF CATEGORIES?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/13371068-e010-487c-95d5-7a491ce97af8)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/8dcc5ee7-0c62-483c-a93f-2f7ae39ccdbf)
 
 
-###
+### Q14. WHICH RESTAURANT PROVIDES THE HIGHEST PERCENTAGE OF NON-VEGEATARIAN FOOD?
 
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/ab2ae336-fe4f-45d5-8981-c04170116bd1)
 
-###
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/cda7ca2b-93fc-4007-81ec-b4281b17c4c9)
 
+### Q15. Determine the Most Expensive and Least Expensive Cities for Dining?
 
-###
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/6e645065-e300-473a-95fe-553677272a41)
 
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/b64e9319-749c-43d3-9319-fe9ae06fc209)
 
-###
+### Q16. Calculate the Rating Rank for Each Restaurant Within Its City where rank = 1?
 
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/49937cd8-3dce-42c5-97ec-061dcedd6e35)
 
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-
-
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/085da82b-ad6e-4f6f-952d-2860078c52f6)
 
