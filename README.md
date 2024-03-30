@@ -30,3 +30,32 @@ Project Overview:
 - Analyzing popular cuisines in different cities.
 - Exploring menu categories and items.
 - Assessing the cost per person for dining in different places.
+
+## Question & Answers
+### Q1. HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/15684b48-bcc7-4238-b716-4f3f4f65d8e3)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/37667687-e490-4c6d-bada-9ed32a7d5914)
+
+### Q2. WHICH IS THE TOP 1 CITY WITH THE HIGHEST NUMBER OF RESTAURANTS?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/28f66bf6-1908-4943-badd-043ed792a6e1)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/93924359-fff9-4b28-84ef-4117ef178540)
+
+### Q3. HOW MANY RESTAURANTS SELL( HAVE WORD "PIZZA" IN THEIR NAME)?
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/657228c3-b6a7-4480-84d8-6f101ca13c0b)
+
+![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/9b489e11-be70-424a-bb50-ff9b46a6f180)
+
+
+
+
+
+
+###
+
+###
+
