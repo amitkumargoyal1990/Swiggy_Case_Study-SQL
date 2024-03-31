@@ -130,3 +130,5 @@ Project Overview:
 
 ![image](https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/assets/90434295/085da82b-ad6e-4f6f-952d-2860078c52f6)
 
+## Links
+Data Link : https://github.com/amitkumargoyal1990/SQL_Swiggy_Case_Study/blob/main/SQL_Swiggy_Project-Data.sql
