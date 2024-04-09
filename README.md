@@ -1,4 +1,4 @@
-# Swiggy Case Study using SQL
+# Swiggy Case Study With SQL
 
 ## Introduction
 
